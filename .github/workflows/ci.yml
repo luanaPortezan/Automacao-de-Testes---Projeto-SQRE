@@ -33,3 +33,12 @@ jobs:
         with:
           # no app to start, just run the spec directly
           command: npx cypress run --spec cypress/integration/contarNomes.spec.js
+
+      - name: Upload test artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: cypress-artifacts-${{ github.run_id }}
+          path: |
+            src/output/*.json
+            cypress/screenshots/**
+            cypress/videos/**
