@@ -32,4 +32,4 @@ jobs:
         uses: cypress-io/github-action@v5
         with:
           # no app to start, just run the spec directly
-          command: 'npx cypress run --spec "cypress/integration/contarNomes.spec.js"'
+          command: npx cypress run --spec cypress/integration/contarNomes.spec.js
