@@ -1,0 +1,9 @@
+{
+  "fixturesFolder": false,
+  "integrationFolder": "cypress/integration",
+  "pluginsFile": "cypress/plugins/index.js",
+  "videos": false,
+  "screenshots": true,
+  "viewportWidth": 1000,
+  "viewportHeight": 660
+}

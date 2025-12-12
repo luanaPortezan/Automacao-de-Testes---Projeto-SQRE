@@ -1,0 +1,29 @@
+{
+  "name": "automacao-de-testes---projeto-sqre---contagem-de-tipos-de-produtos-no-arquivo-json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "contarNomes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luanaPortezan/Automacao-de-Testes---Projeto-SQRE---Contagem-de-tipos-de-produtos-no-arquivo-JSON.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/luanaPortezan/Automacao-de-Testes---Projeto-SQRE---Contagem-de-tipos-de-produtos-no-arquivo-JSON/issues"
+  },
+  "homepage": "https://github.com/luanaPortezan/Automacao-de-Testes---Projeto-SQRE---Contagem-de-tipos-de-produtos-no-arquivo-JSON#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run"
+  },
+  "devDependencies": {
+    "cypress": "^9.7.0"
+  }
+}
