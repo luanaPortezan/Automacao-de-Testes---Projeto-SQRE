@@ -1,1 +1,1 @@
-# Automa-o-de-Testes---Projeto-SQRE---Contagem-de-tipos-de-produtos-no-arquivo-JSON
+# Automação-de-Testes---Projeto-SQRE---Contagem-de-tipos-de-produtos-no-arquivo-JSON
